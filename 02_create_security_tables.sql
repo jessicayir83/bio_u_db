@@ -1,6 +1,6 @@
 /*
 ==================================================================
- Biometric Platform - Fase 2: Identity y Security
+ Bio U - Fase 2: Identity y Security
  Script: Tablas de seguridad (schema `security`)
 ==================================================================
  Ejecutar contra BiometricPlatformDB DESPUES del script

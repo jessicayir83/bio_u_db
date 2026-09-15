@@ -1,6 +1,6 @@
 /*
 ==================================================================
- Biometric Platform - Modulo Kiosco
+ Bio U - Modulo Kiosco
  Script: Bitacora de ingresos (schema `biometric`)
 ==================================================================
  Ejecutar contra BiometricPlatformDB DESPUES del script

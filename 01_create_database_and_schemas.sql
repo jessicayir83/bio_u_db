@@ -1,6 +1,6 @@
 /*
 ==================================================================
- Biometric Platform - Fase 1: Foundation Local
+ Bio U - Fase 1: Foundation Local
  Script: Creación de base de datos y schemas
 ==================================================================
  Ejecutar este script contra tu instancia local de SQL Server

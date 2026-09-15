@@ -1,6 +1,6 @@
 /*
 ==================================================================
- Biometric Platform - Fase 5: Reconocimiento facial (parcial)
+ Bio U - Fase 5: Reconocimiento facial (parcial)
  Script: Tabla de templates biométricos (schema `biometric`)
 ==================================================================
  Ejecutar contra BiometricPlatformDB DESPUES del script

@@ -1,6 +1,6 @@
 /*
 ==================================================================
- Biometric Platform - Fase 3: Gestion de Personas
+ Bio U - Fase 3: Gestion de Personas
  Script: Tablas de identidad (schema `identity`) y enrollment
          (schema `biometric`, solo estructura/estado)
 ==================================================================
