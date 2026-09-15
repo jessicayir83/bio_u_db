@@ -60,5 +60,5 @@ BEGIN
 END
 GO
 
-PRINT 'Modulo Kiosco: tabla biometric.AccessLog y usuario de sistema kiosk creados.';
+PRINT 'Modulo Reconocimiento: tabla biometric.AccessLog y usuario de sistema kiosk creados.';
 GO
